@@ -1,0 +1,3 @@
+# Predicting the Sale Price of Houses
+
+Buying a house is the biggest decision a person can make in their life. It's a perfect milestone, provides enough space for a family, is a sign of success, and is a big investment. A house's value increases over time, meaning that a house bought in 1999 is worth significantly more now in 2025. In today's lab, we are developing a sale price model that will take a house's features to predict it's selling price. I am going to use a training set of data of houses from 2011 to create this model, and then use a test dataset to test its competence. At the end of the day, this model will allow online real estate aggregators to accurately predict the worth of a house with all its features.
